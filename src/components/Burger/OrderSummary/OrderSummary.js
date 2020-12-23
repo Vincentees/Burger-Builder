@@ -17,6 +17,7 @@ return(
             {ingredientSummary}
         </ul>
         <p>Continue to Checkout?</p>
+        
     </Auxiliary>
 )
 }
